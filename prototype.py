@@ -1,5 +1,4 @@
 import csv
-from random import shuffle
 from sklearn import tree, metrics
 
 # read csv files
