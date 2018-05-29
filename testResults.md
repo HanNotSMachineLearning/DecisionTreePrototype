@@ -22,10 +22,10 @@ De onderstaande tabel bevat de waardes van de gemiddelde accuraatheids percentag
 
 | Percentage data          | Developer | Reviewer 1 | Reviewer 2 |
 | ------------------------ | --------- | ---------- | ---------- |
-| **25% van de dataset**   |           |            |            |
-| **50% van de dataset**   |           |            |            |
-| **75% van de dataset**   |           |            |            |
-| **100%  van de dataset** |           |            |            |
+| **25% van de dataset**   |           |            |  0,56667   |
+| **50% van de dataset**   |           |            |  0,86667   |
+| **75% van de dataset**   |           |            |  0,90000   |
+| **100%  van de dataset** |           |            |  0,86667   |
 
 #### Aantal ingevoerde symptomen
 
